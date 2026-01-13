@@ -12,8 +12,7 @@ help me with my project, donate money for the item
 | **LSM6DSOX IMU** | 6‑DoF accelerometer + gyro, tilt compensation | [https://www.adafruit.com/product/4438](https://www.adafruit.com/product/4438) |
 | **MMC5603 Magnetometer** | High‑accuracy compass heading | [https://www.adafruit.com/product/5576](https://www.adafruit.com/product/5576) |
 | **BMP280 Barometer** | Altitude + pressure sensor | [https://www.adafruit.com/product/2651](https://www.adafruit.com/product/2651) |
-| **E‑Ink Display (2.9" or 3.7")** | Sunlight‑readable map + compass display | 
-`https://www.waveshare.com/2.9inch-e-paper-module.htm`  (Protected)** | Main power source, long runtime | Example: [https://www.amazon.co.uk/dp/B07QKQFQ7T](https://www.amazon.co.uk/dp/B07QKQFQ7T) |
+| **E‑Ink Display (2.9" or 3.7")** | Sunlight‑readable map + compass display | `https://www.waveshare.com/2.9inch-e-paper-module.htm` 
 | **18650 Battery Holder / Case** | Holds battery securely | Example: [https://www.amazon.co.uk/dp/B07Q2Y1Z5F](https://www.amazon.co.uk/dp/B07Q2Y1Z5F) |
 | **External 18650 Charger** | Safely charges protected 18650 cells | Example: [https://www.amazon.co.uk/dp/B07G2N1ZQH]
 (https://www.amazon.co.uk/dp/B07G2N1ZQH) |
