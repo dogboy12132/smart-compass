@@ -4,7 +4,7 @@ my sixth form a-level personal project
 help me with my project, donate money for the item
 
 | Component | Description | Link |
-|----------|-------------|------|
+|----------|-------------|------------|
 | **ESP32‑S3 Reverse TFT Feather** | Main microcontroller, USB‑C, LiPo charging, BLE, PSRAM | [https://www.adafruit.com/product/4777](https://www.adafruit.com/product/4777) |
 | **microSD SPI Breakout (3V)** | External map + GPX storage, SPI interface | [https://www.adafruit.com/product/4682](https://www.adafruit.com/product/4682) |
 | **Adafruit Ultimate GPS (PA1616S)** | High‑accuracy GPS, 10 Hz updates, UART | [https://www.adafruit.com/product/746](https://www.adafruit.com/product/746) |
