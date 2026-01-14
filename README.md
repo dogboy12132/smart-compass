@@ -1,5 +1,5 @@
 # smart-compass
-my sixth form a-level personal project
+My sixth form A-level personal project
 
 help me with my project, donate money for the item
 
