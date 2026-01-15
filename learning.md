@@ -1,6 +1,6 @@
 ## 1. Core Electronics
 Skills to Learn
-- 🟩 Understand voltage, current, resistance
+- [X] Understand voltage, current, resistance
 
 - [ ] Read schematics
 
