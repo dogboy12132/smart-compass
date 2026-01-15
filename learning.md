@@ -1,147 +1,147 @@
 ## 1. Core Electronics
 Skills to Learn
-[ ] Understand voltage, current, resistance
+[] Understand voltage, current, resistance
 
-[ ] Read schematics
+[] Read schematics
 
-[ ] Use a multimeter
+[] Use a multimeter
 
-[ ] Breadboard circuits
+[] Breadboard circuits
 
-[ ] Solder through‑hole components
+[] Solder through‑hole components
 
-[ ] Solder basic SMD components
+[] Solder basic SMD components
 
-[ ] Understand Li‑ion battery safety
+[] Understand Li‑ion battery safety
 
-[ ] Understand power regulation basics
+[] Understand power regulation basics
 
 Why It Matters
 All hardware modules (ESP32‑S3, GPS, IMU, magnetometer, SD card, e‑ink, NFC) require confident wiring and debugging.
 
 ## 2. Firmware Development (C++ / Arduino Framework)
 Skills to Learn
-[ ] C++ fundamentals
+[] C++ fundamentals
 
-[ ] Arduino programming model
+[] Arduino programming model
 
-[ ] Serial debugging
+[] Serial debugging
 
-[ ] I²C communication
+[] I²C communication
 
-[ ] SPI communication
+[] SPI communication
 
-[ ] UART communication
+[] UART communication
 
-[ ] Reading sensors
+[] Reading sensors
 
-[ ] Writing to SD card
+[] Writing to SD card
 
-[ ] Drawing to e‑ink displays
+[] Drawing to e‑ink displays
 
-[ ] BLE services & characteristics
+[] BLE services & characteristics
 
-[ ] Power management (sleep modes)
+[] Power management (sleep modes)
 
 Libraries to Use
-[ ] GxEPD2
+[] GxEPD2
 
-[ ] TinyGPS++
+[] TinyGPS++
 
-[ ] ArduinoJson
+[] ArduinoJson
 
-[ ] ESP32 BLE Arduino
+[] ESP32 BLE Arduino
 
-[ ] Adafruit sensor libraries
+[] Adafruit sensor libraries
 
 ## 3. Mobile App Development (Flutter + Swift App Clip)
 Flutter (Dart)
-[ ] Learn Dart basics
+[] Learn Dart basics
 
-[ ] Understand Flutter widgets
+[] Understand Flutter widgets
 
-[ ] Navigation & routing
+[] Navigation & routing
 
-[ ] State management (Provider or Riverpod)
+[] State management (Provider or Riverpod)
 
-[ ] BLE scanning
+[] BLE scanning
 
-[ ] BLE characteristic writing
+[] BLE characteristic writing
 
-[ ] GPX file import
+[] GPX file import
 
-[ ] HTTP requests (OS Maps API)
+[] HTTP requests (OS Maps API)
 
 Swift (App Clip)
-[ ] Swift basics
+[] Swift basics
 
-[ ] SwiftUI
+[] SwiftUI
 
-[ ] CoreBluetooth
+[] CoreBluetooth
 
-[ ] CoreNFC
+[] CoreNFC
 
-[ ] App Clip lifecycle
+[] App Clip lifecycle
 
 ## 4. Mapping Tools (Python + OS Maps API)
 Skills to Learn
-[ ] Python fundamentals
+[] Python fundamentals
 
-[ ] Using APIs
+[] Using APIs
 
-[ ] GPX parsing
+[] GPX parsing
 
-[ ] Tile math (lat/lon → tile coordinates)
+[] Tile math (lat/lon → tile coordinates)
 
-[ ] Image processing (Pillow)
+[] Image processing (Pillow)
 
-[ ] Exporting map bundles to SD card
+[] Exporting map bundles to SD card
 
 Libraries to Use
-[ ] requests
+[] requests
 
-[ ] Pillow
+[] Pillow
 
-[ ] gpxpy
+[] gpxpy
 
-[ ] numpy
+[] numpy
 
-[ ] tqdm
+[] tqdm
 
 ## 5. PCB Design (KiCad)
 Skills to Learn
-[ ] Schematic design
+[] Schematic design
 
-[ ] Footprint selection
+[] Footprint selection
 
-[ ] PCB layout
+[] PCB layout
 
-[ ] Ground planes
+[] Ground planes
 
-[ ] EMI‑safe routing
+[] EMI‑safe routing
 
-[ ] 3D enclosure fit
+[] 3D enclosure fit
 
-[ ] Generating Gerbers
+[] Generating Gerbers
 
 ## 6. Mechanical Design (Optional)
 Skills to Learn
-[ ] Basic CAD (Fusion 360 or FreeCAD)
+[] Basic CAD (Fusion 360 or FreeCAD)
 
-[ ] Designing enclosures
+[] Designing enclosures
 
-[ ] 3D printing basics
+[] 3D printing basics
 
 ## 7. Debugging & Testing
 Skills to Learn
-[ ] Serial logs
+[] Serial logs
 
-[ ] Logic analyzer basics
+[] Logic analyzer basics
 
-[ ] Sensor calibration
+[] Sensor calibration
 
-[ ] GPS field testing
+[] GPS field testing
 
-[ ] BLE reliability testing
+[] BLE reliability testing
 
-[ ] Battery life measurement
+[] Battery life measurement
