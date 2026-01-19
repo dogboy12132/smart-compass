@@ -4,15 +4,15 @@ Skills to Learn
 
 - [ ] Read schematics
 
-- [ ] Use a multimeter
+- [X] Use a multimeter
 
 - [ ] Breadboard circuits
 
-- [ ] Solder through‑hole components
+- [X] Solder through‑hole components
 
-- [ ] Solder basic SMD components
+- [X] Solder basic SMD components
 
-- [ ] Understand Li‑ion battery safety
+- [X] Understand Li‑ion battery safety
 
 - [ ] Understand power regulation basics
 
@@ -85,7 +85,7 @@ Swift (App Clip)
 
 ## 4. Mapping Tools (Python + OS Maps API)
 Skills to Learn
-- [ ] Python fundamentals
+- [X] Python fundamentals
 
 - [ ] Using APIs
 
@@ -104,7 +104,7 @@ Libraries to Use
 
 - [ ] gpxpy
 
-- [ ] numpy
+- [X] numpy
 
 - [ ] tqdm
 
@@ -126,11 +126,11 @@ Skills to Learn
 
 ## 6. Mechanical Design (Optional)
 Skills to Learn
-- [ ] Basic CAD (Fusion 360 or FreeCAD)
+- [X] Basic CAD (Fusion 360 or FreeCAD)
 
 - [ ] Designing enclosures
 
-- [ ] 3D printing basics
+- [X] 3D printing basics
 
 ## 7. Debugging & Testing
 Skills to Learn
