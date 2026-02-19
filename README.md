@@ -5,7 +5,7 @@ help me with my project, donate money for the item
 
 | Component | Description | Link |
 |----------|-------------|------------------------|
-| **ESP32‑S3 Reverse TFT Feather** | Main microcontroller, USB‑C, LiPo charging, BLE, PSRAM | [https://www.adafruit.com/product/4777](https://www.adafruit.com/product/4777) |
+| **ESP32‑S3 Reverse TFT Feather** | Main microcontroller, USB‑C, LiPo charging, BLE, PSRAM | [https://www.adafruit.com/product/5400](https://www.adafruit.com/product/5400) |
 | **microSD SPI Breakout (3V)** | External map + GPX storage, SPI interface | [https://www.adafruit.com/product/4682](https://www.adafruit.com/product/4682) |
 | **Adafruit Ultimate GPS (PA1616S)** | High‑accuracy GPS, 10 Hz updates, UART | [https://www.adafruit.com/product/746](https://www.adafruit.com/product/746) |
 | **PN532 NFC Module** | NFC for App Clip launch + map IDs | [https://www.adafruit.com/product/364](https://www.adafruit.com/product/364) |
