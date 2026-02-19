@@ -8,7 +8,7 @@ help me with my project, donate money for the item
 | **ESP32‑S3 Reverse TFT Feather** | Main microcontroller, USB‑C, LiPo charging, BLE, PSRAM | [https://www.adafruit.com/product/5400](https://www.adafruit.com/product/5400) |
 | **microSD SPI Breakout (3V)** | External map + GPX storage, SPI interface | [https://www.adafruit.com/product/4682](https://www.adafruit.com/product/4682) |
 | **Adafruit Ultimate GPS (PA1616S)** | High‑accuracy GPS, 10 Hz updates, UART | [https://www.adafruit.com/product/746](https://www.adafruit.com/product/746) |
-| **PN532 NFC Module** | NFC for App Clip launch + map IDs | [https://www.adafruit.com/product/364](https://www.adafruit.com/product/364) |
+| **ST25R3911B** | NFC for App Clip launch + map IDs |  |
 | **LSM6DSOX IMU** | 6‑DoF accelerometer + gyro, tilt compensation | [https://www.adafruit.com/product/4438](https://www.adafruit.com/product/4438) |
 | **MMC5603 Magnetometer** | High‑accuracy compass heading | [https://www.adafruit.com/product/5576](https://www.adafruit.com/product/5576) |
 | **BMP280 Barometer** | Altitude + pressure sensor | [https://www.adafruit.com/product/2651](https://www.adafruit.com/product/2651) |
